@@ -94,3 +94,5 @@ $ curl http://booster-configmap-spring-boot-MY_PROJECT_NAME.LOCAL_OPENSHIFT_HOST
 
 == More Information
 You can learn more about this booster and the Spring Boot runtime in the link:http://appdev.openshift.io/docs/spring-boot-runtime.html[Spring Boot Runtime Guide].
+
+
